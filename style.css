@@ -4,11 +4,11 @@ body {
     background: #2AA23D;
     background: linear-gradient(90deg, #2AA23D 0%, #76BD32 35%, #C4D927 100%);
 }
-@media only screen and (max-width: 600px) {
+@media (min-width: 576px) {
 
-.row
+row
 {
-display:none;
+display:noneimportant;
 }
 }
 #container {
