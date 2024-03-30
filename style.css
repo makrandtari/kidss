@@ -4,13 +4,7 @@ body {
     background: #2AA23D;
     background: linear-gradient(90deg, #2AA23D 0%, #76BD32 35%, #C4D927 100%);
 }
-@media (min-width: 576px) {
 
-row
-{
-display:noneimportant;
-}
-}
 #container {
     justify-content: center;
     align-items: center;
